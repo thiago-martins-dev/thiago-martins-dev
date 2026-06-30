@@ -87,14 +87,6 @@ Transformo necessidades reais em sistemas e aplicativos modernos, funcionais, or
 
 ---
 
-## 📊 Atividade no GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=thiago-martins-dev&show_icons=true&locale=pt-br)
-
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-martins-dev&layout=compact&locale=pt-br)
-
----
-
 ## 🤝 Objetivos profissionais
 
 Busco oportunidades para aplicar conhecimentos técnicos, participar do desenvolvimento de sistemas completos e contribuir com soluções eficientes para empresas e usuários.
